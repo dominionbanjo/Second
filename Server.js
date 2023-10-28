@@ -25,7 +25,7 @@ function sendToWebSocketClients(data) {
   });
 }
 
-// Define the initial data here or replace it with your actual data
+// Define the initial data here
 const initialData = {
   id: 0,
   time: 0,
